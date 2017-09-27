@@ -1,9 +1,9 @@
-
-1)El cluster: landing page
+home:
 	¿Quiénes somos?
+historia:
 	Orígenes
 
-2)Principios:
+Principios:
 	Misión
 	Visión
 	Valores
@@ -12,10 +12,10 @@
 3)Organización:
 	Estructura organizativa
 	Diferenciador
+
+Linea de trabajo:
 	Lineas de trabajo
 
 
 4)contacto:
 	info de contacto jeje
-
-//productos y servicios en la página de wix
