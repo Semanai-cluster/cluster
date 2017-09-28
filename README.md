@@ -1,21 +1,15 @@
-home:
-	¿Quiénes somos?
-historia:
-	Orígenes
+Propósito:
 
-Principios:
-	Misión
-	Visión
-	Valores
+Generar una página web para el Cluster FASMEX, conjunto de empresas que se asocian debido al tema de la sustentabilidad, siendo un total de 6 empresas las que pertenecen a esto.
 
+Equipo conformado por:
 
-3)Organización:
-	Estructura organizativa
-	Diferenciador
+Desarrollado con:
+	HTML
+	CSS
+	JavaScript
+	JQuery
 
-Linea de trabajo:
-	Lineas de trabajo
-
-
-4)contacto:
-	info de contacto jeje
+Frameworks usados:
+	Bootstrap
+	DJango
