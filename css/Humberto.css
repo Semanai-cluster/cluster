@@ -51,4 +51,13 @@ header.vidhead > .overlay {
     header.vidhead > .overlay {
         padding: 10rem 0;
     }
+.container1 {
+     background: rgb(95,106,110);
+    }
+.container2 {
+     background: rgb(172,206,170);
+    }
+.container3 {
+     background: rgb(172,209,138);
+    }
 }
