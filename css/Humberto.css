@@ -71,6 +71,16 @@ header.masthead1 > .overlay {
         padding: 10rem 0;
     }
 
+header.masthead2 {
+
+}
+
+header.masthead2 > .overlay {
+    text-align: center;
+    background: rgb(0, 0, 0);
+}
+
+
 .container1 {
      background: rgb(95,106,110);
     }
@@ -81,12 +91,6 @@ header.masthead1 > .overlay {
      background: rgb(172,209,138);
     }
 .container4 {
-     background: rgb(53, 84, 45);
-    } 
-.container5 {
      background: rgb(37, 59, 28);
-    } 
-.container6 {
-     background: rgb(220, 210, 91);
-    }     
+    }    
 }
