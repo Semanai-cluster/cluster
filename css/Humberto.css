@@ -51,6 +51,26 @@ header.vidhead > .overlay {
     header.vidhead > .overlay {
         padding: 10rem 0;
     }
+
+header.masthead1 {
+    background: url('../IMGH/origen.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+header.masthead1 > .overlay {
+    padding: 5rem 0;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+@media (min-width: 992px) {
+    header.masthead1 > .overlay {
+        padding: 10rem 0;
+    }
+
 .container1 {
      background: rgb(95,106,110);
     }
@@ -60,4 +80,13 @@ header.vidhead > .overlay {
 .container3 {
      background: rgb(172,209,138);
     }
+.container4 {
+     background: rgb(53, 84, 45);
+    } 
+.container5 {
+     background: rgb(37, 59, 28);
+    } 
+.container6 {
+     background: rgb(220, 210, 91);
+    }     
 }
